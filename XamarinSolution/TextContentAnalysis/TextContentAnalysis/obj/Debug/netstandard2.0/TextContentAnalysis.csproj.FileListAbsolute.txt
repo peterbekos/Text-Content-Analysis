@@ -1,0 +1,12 @@
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/bin/Debug/netstandard2.0/TextContentAnalysis.deps.json
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/bin/Debug/netstandard2.0/TextContentAnalysis.dll
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/bin/Debug/netstandard2.0/TextContentAnalysis.pdb
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/obj/Debug/netstandard2.0/TextContentAnalysis.csprojAssemblyReference.cache
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/obj/Debug/netstandard2.0/TextContentAnalysis.csproj.CoreCompileInputs.cache
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/obj/Debug/netstandard2.0/TextContentAnalysis.AssemblyInfoInputs.cache
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/obj/Debug/netstandard2.0/TextContentAnalysis.AssemblyInfo.cs
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/obj/Debug/netstandard2.0/TextContentAnalysis.dll
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/TextContentAnalysis/obj/Debug/netstandard2.0/TextContentAnalysis.pdb

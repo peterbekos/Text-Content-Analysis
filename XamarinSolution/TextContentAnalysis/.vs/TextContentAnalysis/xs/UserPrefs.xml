@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{D54B355A-B23A-45B9-8285-96079C9DF4C0}|Default">
   <MonoDevelop.Ide.ItemProperties.TextContentAnalysis FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TextContentAnalysis/TextContentAnalyzer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/UnitTest1.cs">
     <Files>
       <File FileName="TextContentAnalysis/MainPage.xaml.cs" Line="1" Column="1" />
       <File FileName="TextContentAnalysis/MainPage.xaml" />
-      <File FileName="TextContentAnalysis/TextContentAnalyzer.cs" Line="7" Column="10" />
+      <File FileName="TextContentAnalysis/TextContentAnalyzer.cs" Line="10" Column="24" />
+      <File FileName="Tests/UnitTest1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TextContentAnalysis" expanded="True">
-            <Node name="TextContentAnalysis" expanded="True">
-              <Node name="TextContentAnalyzer.cs" selected="True" />
-            </Node>
+            <Node name="Tests" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -20,6 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.TextContentAnalysis.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.ItemProperties.TextContentAnalysis.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Tests FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

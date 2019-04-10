@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextContentAnalysis.iOS", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextContentAnalysis", "TextContentAnalysis\TextContentAnalysis.csproj", "{6327003F-D638-480C-A0DE-2A71041004FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{721A64DE-DBCD-41FD-8D1D-87C891E8866C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,17 @@ Global
 		{6327003F-D638-480C-A0DE-2A71041004FC}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{6327003F-D638-480C-A0DE-2A71041004FC}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{6327003F-D638-480C-A0DE-2A71041004FC}.Release|iPhone.Build.0 = Release|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{721A64DE-DBCD-41FD-8D1D-87C891E8866C}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

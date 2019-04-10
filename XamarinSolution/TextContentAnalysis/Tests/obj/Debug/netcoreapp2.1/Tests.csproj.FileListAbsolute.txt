@@ -1,0 +1,17 @@
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/bin/Debug/netcoreapp2.1/Tests.deps.json
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/bin/Debug/netcoreapp2.1/Tests.runtimeconfig.json
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/bin/Debug/netcoreapp2.1/Tests.runtimeconfig.dev.json
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/bin/Debug/netcoreapp2.1/Tests.dll
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/bin/Debug/netcoreapp2.1/Tests.pdb
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/obj/Debug/netcoreapp2.1/Tests.csprojAssemblyReference.cache
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/obj/Debug/netcoreapp2.1/Tests.csproj.CoreCompileInputs.cache
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/obj/Debug/netcoreapp2.1/Tests.AssemblyInfoInputs.cache
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/obj/Debug/netcoreapp2.1/Tests.AssemblyInfo.cs
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/obj/Debug/netcoreapp2.1/Tests.dll
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/obj/Debug/netcoreapp2.1/Tests.pdb
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/bin/Debug/netcoreapp2.1/TextContentAnalysis.dll
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/bin/Debug/netcoreapp2.1/TextContentAnalysis.pdb
+/Users/peterbekos/Development/Text-Content-Analysis/XamarinSolution/TextContentAnalysis/Tests/obj/Debug/netcoreapp2.1/Tests.csproj.CopyComplete
