@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{D54B355A-B23A-45B9-8285-96079C9DF4C0}|Default">
   <MonoDevelop.Ide.ItemProperties.TextContentAnalysis FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TextContentAnalysis/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextContentAnalysis/TextContentAnalyzer.cs">
     <Files>
       <File FileName="TextContentAnalysis/MainPage.xaml.cs" Line="1" Column="1" />
       <File FileName="TextContentAnalysis/MainPage.xaml" />
+      <File FileName="TextContentAnalysis/TextContentAnalyzer.cs" Line="7" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TextContentAnalysis" expanded="True">
             <Node name="TextContentAnalysis" expanded="True">
-              <Node name="MainPage.xaml" selected="True" />
+              <Node name="TextContentAnalyzer.cs" selected="True" />
             </Node>
           </Node>
         </State>
