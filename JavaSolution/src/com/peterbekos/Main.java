@@ -35,9 +35,9 @@ public class Main {
 
     private static String getFilePathFromName(String fileName) {
         Path path = Paths.get(fileName);
-        String uriPath = path.toUri().getPath();
+        String uriPath = path.toUri().getRawPath();
         return uriPath;
-    }
+    } //C:\Users\PB\Develop\Text-Content-Analysis\JavaSolution\src\com\peterbekos\test.txt
 
     private static String readFileToString(String filePath) {
         StringBuilder stringBuilder = new StringBuilder();
